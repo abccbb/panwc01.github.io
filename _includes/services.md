@@ -26,6 +26,7 @@
   <li><a href="https://link.springer.com/journal/11554"><autocolor>Journal of Real-Time Image Processing (JRTIP)</autocolor></a></li>
   <li><a href="https://iopscience.iop.org/journal/0957-0233"><autocolor>Measurement Science and Technology (MST)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/10586"><autocolor>Cluster Computing</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/iscience"><autocolor>iScience</autocolor></a></li>
   <li><a href="https://www.nature.com/srep/"><autocolor>Scientific Reports (SR)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/530"><autocolor>Multimedia Systems</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/371"><autocolor>The Visual Computer (TVC)</autocolor></a></li>
